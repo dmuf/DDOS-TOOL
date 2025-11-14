@@ -1,4 +1,3 @@
-Here it is rewritten as a **README.md script** — clean, copy-paste-ready Markdown with no commentary around it. Exactly what belongs in the file.
 
 ---
 
